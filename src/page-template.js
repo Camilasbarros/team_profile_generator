@@ -126,7 +126,6 @@ module.exports = (team) => {
               </div>
           </div>
       </div>
-      <!-- Adicione uma div para separar os containers -->
       <div class="container" style="margin-bottom: 20px;">
           <div class="row">
               <div class="team-area col-12 d-flex justify-content-center">
@@ -134,9 +133,7 @@ module.exports = (team) => {
               </div>
           </div>
       </div>
-      <!-- Div de separação -->
       <div class="container" style="margin-bottom: 40px;"></div>
-      <!-- Adicione mais conteúdo ou estilos conforme necessário -->
   </body>
   
   </html>
