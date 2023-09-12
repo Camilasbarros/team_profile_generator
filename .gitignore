@@ -1,0 +1,18 @@
+# Ignore node_modules/ folder
+node_modules/
+
+# Ignore .env files
+.env
+
+# Ignore compilation/dist folder
+dist/
+build/
+
+# Ignore coverage reports folder
+coverage/
+
+# Ignore generated output files
+output/
+
+# Ignore environment configuration files 
+config.js
